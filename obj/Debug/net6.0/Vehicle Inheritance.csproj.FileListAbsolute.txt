@@ -1,0 +1,15 @@
+D:\Stuff\Code\C#\Vehicle Inheritance\bin\Debug\net6.0\Vehicle Inheritance.exe
+D:\Stuff\Code\C#\Vehicle Inheritance\bin\Debug\net6.0\Vehicle Inheritance.deps.json
+D:\Stuff\Code\C#\Vehicle Inheritance\bin\Debug\net6.0\Vehicle Inheritance.runtimeconfig.json
+D:\Stuff\Code\C#\Vehicle Inheritance\bin\Debug\net6.0\Vehicle Inheritance.dll
+D:\Stuff\Code\C#\Vehicle Inheritance\bin\Debug\net6.0\ref\Vehicle Inheritance.dll
+D:\Stuff\Code\C#\Vehicle Inheritance\bin\Debug\net6.0\Vehicle Inheritance.pdb
+D:\Stuff\Code\C#\Vehicle Inheritance\obj\Debug\net6.0\Vehicle Inheritance.csproj.AssemblyReference.cache
+D:\Stuff\Code\C#\Vehicle Inheritance\obj\Debug\net6.0\Vehicle Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\Code\C#\Vehicle Inheritance\obj\Debug\net6.0\Vehicle Inheritance.AssemblyInfoInputs.cache
+D:\Stuff\Code\C#\Vehicle Inheritance\obj\Debug\net6.0\Vehicle Inheritance.AssemblyInfo.cs
+D:\Stuff\Code\C#\Vehicle Inheritance\obj\Debug\net6.0\Vehicle Inheritance.csproj.CoreCompileInputs.cache
+D:\Stuff\Code\C#\Vehicle Inheritance\obj\Debug\net6.0\Vehicle Inheritance.dll
+D:\Stuff\Code\C#\Vehicle Inheritance\obj\Debug\net6.0\ref\Vehicle Inheritance.dll
+D:\Stuff\Code\C#\Vehicle Inheritance\obj\Debug\net6.0\Vehicle Inheritance.pdb
+D:\Stuff\Code\C#\Vehicle Inheritance\obj\Debug\net6.0\Vehicle Inheritance.genruntimeconfig.cache
